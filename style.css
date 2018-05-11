@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(210, 228, 235);
+}
+
+.purple{
+    background-color: white;
+}
+
+section {
+    background-color: maroon;
+    text-align: center;
+    text-decoration: dotted;
+
+}
